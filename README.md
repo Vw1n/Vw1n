@@ -4,7 +4,6 @@ Guten Morgen！This is Vw1n, a student from SZTU.
 ### Hobbies
  - sleep
  - football
- - the piano
 
 <!---
 Vw1n/Vw1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
